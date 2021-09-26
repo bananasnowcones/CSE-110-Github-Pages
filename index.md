@@ -37,6 +37,7 @@ My favorite books of the Bible are:
 - Philippians
 
 I'm also quite a busy person. Here's some things I need to do today:
-[ ] Do my homework
-[X] Read and pray
-[X] Eat
+- [ ] Do my homework
+- [x] Read and pray
+- [x] Eat
+
